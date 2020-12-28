@@ -1,3 +1,3 @@
 # Character
  Character Counter
-![counter](https://user-images.githubusercontent.com/63623377/103244526-0ecb4500-493c-11eb-9d96-1abb81bfa73a.gif)
+![counter ori](https://user-images.githubusercontent.com/63623377/103245257-5652d080-493e-11eb-9a87-d7f940e56027.gif)
