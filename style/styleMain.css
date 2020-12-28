@@ -66,4 +66,11 @@ body .container .paragraph {
 body .container .colorRed {
   color: red;
 }
+
+body .footerMain {
+  position: fixed;
+  top: 34.5em;
+  left: 2em;
+  color: #212121;
+}
 /*# sourceMappingURL=styleMain.css.map */
